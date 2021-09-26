@@ -1,0 +1,29 @@
+body{
+    background-color:plum;
+    border-style: groove;
+    border-width: 5mm;
+    border-color:blueviolet;
+}
+button{
+    width:80%;
+    height: 39px;
+    background-color:lawngreen ;
+    border: yellow 4px  inset;
+    font-weight: bolder;
+    font-size: 14px;
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:40px;
+    width:100px;
+    border-radius: 5px;
+} 
+.hone{
+    height:75px;
+    width:90%;
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 10px;
+    border:darkviolet 10px outset;
+}

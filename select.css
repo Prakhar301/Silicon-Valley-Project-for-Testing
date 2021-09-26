@@ -1,0 +1,27 @@
+body{
+    background-color:yellow;
+    border-style: groove;
+    border-width: 5mm;
+    border-color:mediumspringgreen     ;
+}
+.butt{
+    width:90%;
+    height: 82px;
+    border-width: 7px;
+    border-style:inset;
+    border-color: hsla(327, 100%, 68%, 1);
+    background-color: coral;
+    border-radius: 0px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.hone{
+    width: 90%;
+    background-color:cyan;
+    border: mediumslateblue 10px outset;
+}
+.hthree{
+    background-color:indianred;
+    width: 85%;
+    border:forestgreen dotted  4px;
+}

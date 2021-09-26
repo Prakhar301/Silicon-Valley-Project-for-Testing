@@ -1,0 +1,27 @@
+body{
+    background-color:aqua;
+    border-style: groove;
+    border-width: 5mm;
+    border-color:pink;
+}
+.hone{
+    font-size: 30px;
+    background-color: mediumorchid;
+    border:royalblue 10px outset;
+}
+.backer{
+    background-color: slateblue !important;
+    border: 0px black solid;
+    height:30px;
+    width:100px;
+    margin-top:5px ;
+    border-radius: 5px;
+}
+button{
+    width:80%;
+    height: 22.1px;
+    background-color:darkorange;
+    border:seagreen 3px inset;
+    font-size: 12px;
+    font-weight: bolder;
+}
